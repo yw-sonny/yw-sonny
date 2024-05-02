@@ -2,7 +2,7 @@
 
 #### 🌱 I’m currently learning ...
 - Quadruped Robot
-- Motion Planning
+- Motion & Path Planning
 - Deep Learning
 
 <!--
