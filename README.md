@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### 🌱 I’m currently learning ...
-##### - Quadruped Robot
-##### - Motion Planning
-##### - Deep Learning
+- Quadruped Robot
+- Motion Planning
+- Deep Learning
 
 <!--
 **son-youngwoo/son-youngwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
