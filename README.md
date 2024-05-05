@@ -6,12 +6,12 @@
 <a href="https://orcid.org/0009-0007-1251-9415"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0009-0007-1251-9415"/></a>
 <a href="https://www.researchgate.net/profile/Yeongwoo-Son-2"><img src="https://img.shields.io/badge/researchgate-00CCBB?style=flat-square&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Yeongwoo-Son-2"/></a>
 
-#### 🌱 Research Field
+#### ⭐️ Research Field
 - Quadrupedal Robot
 - Motion & Path Planning
 - Deep Learning
 
-#### 🔭 Languages and Tools
+#### 📚 Tech Stack
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
