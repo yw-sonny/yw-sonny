@@ -3,6 +3,7 @@
 
 <a href="mailto:ywson96@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ywson96@gmail.com"/></a>
 <a href="https://www.youtube.com/@YeongwooSon"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@YeongwooSon"/></a>
+<a href="https://orcid.org/0009-0007-1251-9415"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0009-0007-1251-9415"/></a>
 
 #### 🌱 Research Field
 - Quadruped Robot
