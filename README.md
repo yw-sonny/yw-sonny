@@ -27,16 +27,17 @@
 
 #### 🔥 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=son-youngwoo&show_icons=true&locale=en&layout=compact" alt="son-youngwoo" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=transparent" alt="GitHub Streak" height="165"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=ayu-light" alt="GitHub Streak" height="165"/></a>
 
-<!--a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=ayu-light" alt="GitHub Streak height="165"/></a>
+<!--a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo" alt="GitHub Streak" height="165/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=ayu-light" alt="GitHub Streak" height="165"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=transparent" alt="GitHub Streak" height="165"/></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=flag-india" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=buefy" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=vue" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=cobalt" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=onedark-duo" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=gruvbox-duo" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo" alt="GitHub Streak" /></a-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=gruvbox-duo" alt="GitHub Streak" /></a-->
 
 <!--img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"-->
 
