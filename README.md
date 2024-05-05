@@ -6,7 +6,7 @@
 <a href="https://orcid.org/0009-0007-1251-9415"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0009-0007-1251-9415"/></a>
 
 #### 🌱 Research Field
-- Quadruped Robot
+- Quadrupedal Robot
 - Motion & Path Planning
 - Deep Learning
 
@@ -24,6 +24,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 </p>
 
+#### 🔥 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=son-youngwoo&show_icons=true&locale=en&layout=compact" alt="son-youngwoo" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=transparent" alt="GitHub Streak" height="165"/></a>
 
