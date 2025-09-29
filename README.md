@@ -26,8 +26,8 @@
 </p>
 
 #### 🔥 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=son-youngwoo&show_icons=true&locale=en&layout=compact" alt="son-youngwoo" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=ayu-light" alt="GitHub Streak" height="165"/></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yw-sonny&show_icons=true&locale=en&layout=compact" alt="yw-sonny" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yw-sonny&theme=ayu-light" alt="GitHub Streak" height="165"/></a>
 
 <!--a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo" alt="GitHub Streak" height="165/></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=son-youngwoo&theme=ayu-light" alt="GitHub Streak" height="165"/></a>
