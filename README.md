@@ -9,9 +9,9 @@
 
 #### ⭐️ Research Field
 - Quadrupedal Robot
-- Motion & Path Planning
-- Perceptive Locomotion
-- Deep Learning
+- Motion Planning and Path Planning
+- Deep Learning- and Optimization-based Planning
+- Perceptive Locomotion and Collision Avoidance
 
 #### 📚 Tech Stack
 <p align="left"> 
